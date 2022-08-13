@@ -1,0 +1,18 @@
+body{
+    font-family: Lora;
+}
+
+.heading{
+    color: #112e51;
+    font-weight: 700;
+    font-size: 2.8125rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+.flag-img{
+    height: 15rem;
+    width: auto;
+}
